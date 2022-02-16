@@ -1,0 +1,291 @@
+.background {
+position: relative;
+width: 730px;
+height: 670px;
+left: 350px;
+background-color: black;
+}
+.rectangle1 {
+width: 100% ;
+height: 50px;
+background-color: rgb(252, 231, 233) ;
+}
+.rectangle2 {
+width: 100%;
+height: 500px;
+background-color: rgb(235, 41, 41);
+}
+.rectangle3 {
+width: 100%;
+height: 70px;
+background-color: rgb(248, 215, 105);
+}
+.rectangle4 {
+width: 100%;
+height: 50px;
+background-color: rgb(219, 187, 79);
+}
+
+.gallery_logo {
+position: relative;
+width: 30px;
+height: 30px;
+top: 10px;
+left: 10px;
+}
+.rectangle1__fluid_gallery {
+position: relative;
+top: -17px;
+left: 50px;
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+}
+.rectangle1__1st_fluid {
+position: relative;
+top: -55px;
+left: 350px;
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+}
+.rectangle1__2st_fluid {
+position: relative; 
+top: -92px;
+left: 430px;
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+}
+.rectangle1__3st_fluid {
+position: relative; 
+top: -150px;
+left: 495px;
+font-family: Arial, Helvetica, sans-serif;
+background-color: rgb(252, 212, 33);
+padding: 13px;
+padding-top: 1px;
+text-align: center;
+height: 35px;
+width: 45px;
+}
+.rectangle1__columns {
+position: relative; 
+top: -203px;
+left: 590px;
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+}
+.rectangle1__message {
+position: relative; 
+top: -240px;
+left: 670px;
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.rectangle2_photo1 {
+width: 182px;
+height: 166px;
+}
+.rectangle2_photo2 {
+position: relative;
+right: 4px;
+width: 182px;
+height: 166px;
+}
+.rectangle2_photo3 {
+position: relative;
+right: 8px;
+width: 182px;
+height: 166px;
+}
+.rectangle2_photo4 {
+position: absolute;
+right: 0px;
+width: 184px;
+height: 166px;
+}
+.rectangle2_photo5 {
+position: relative;
+top: -4px;
+width: 182px;
+height: 166px;
+}
+.rectangle2_photo6 {
+position: relative;
+top: -4px;
+right: 4px;
+width: 182px;
+height: 166px;
+}
+.rectangle2_photo7 {
+position: relative;
+top: -4px;
+right: 8px;
+width: 182px;
+height: 166px;
+}
+.rectangle2_photo8 {
+position: absolute;
+right: 0px;
+top: 216px;
+width: 184px;
+height: 166px;
+}
+.rectangle2_photo9 {
+position: relative;
+top: -8px;
+width: 182px;
+height: 168px;
+}
+.rectangle2_photo10 {
+position: relative;
+top: -8px;
+right: 4px;
+width: 182px;
+height: 168px;
+}
+.rectangle2_photo11 {
+position: relative;
+top: -8px;
+right: 8px;
+width: 182px;
+height: 168px;
+}
+.rectangle2_photo12 {
+position: absolute;
+top: 382px;
+right: 0px;
+width: 184px;
+height: 168px;
+}
+
+.photo1_text {
+position: absolute;
+top: 100px;
+left: 55px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(255, 255, 255);
+}
+.photo2_text {
+position: absolute;
+top: 100px;
+left: 235px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(255, 255, 255);
+}
+.photo3_text {
+position: absolute;
+top: 100px;
+right: 235px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(255, 255, 255);
+}
+.photo4_text {
+position: absolute;
+top: 100px;
+right: 55px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(255, 255, 255);
+}
+.photo5_text {
+position: absolute;
+top: 270px;
+left: 55px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(255, 255, 255);
+}
+.photo6_text {
+position: absolute;
+top: 270px;
+left: 235px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(255, 255, 255);
+}
+.photo7_text {
+position: absolute;
+top: 270px;
+right: 235px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(255, 255, 255);
+}
+.photo8_text {
+position: absolute;
+top: 270px;
+right: 55px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(255, 255, 255);
+}
+.photo9_text {
+position: absolute;
+top: 440px;
+left: 235px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(255, 255, 255);
+}
+.photo10_text {
+position: absolute;
+top: 440px;
+left: 55px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(255, 255, 255);
+}
+.photo11_text {
+position: absolute;
+top: 440px;
+right: 235px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(255, 255, 255);
+}
+.photo12_text {
+position: absolute;
+top: 440px;
+right: 55px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(255, 255, 255);
+}
+
+.facebook_logo{
+position: relative;
+top: 30px;
+left: 230px;
+width: 40px;
+height: 40px;
+}
+.google_logo{
+position: relative;
+top: 28px;
+left: 240px;
+width: 35px;
+height: 35px;
+}
+.twitter_logo{
+position: relative;
+top: 26px;
+left: 260px;
+width: 30px;
+height: 30px;
+}
+.instagram_logo{
+position: relative;
+top: 30px;
+left: 280px;
+width: 35px;
+height: 35px;
+}
+.linkedin_logo{
+position: relative;
+top: 26px;
+left: 300px;
+width: 30px;
+height: 30px;
+}
+.rectangle4__text{
+position: relative;
+top: 15px;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 13px;
+}
+
+
+
+
